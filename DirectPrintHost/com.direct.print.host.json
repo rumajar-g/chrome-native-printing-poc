@@ -1,0 +1,9 @@
+{
+  "name": "com.direct.print.host",
+  "description": "Direct Print Native Host",
+  "path": "C:\\dev\\DirectPrintHost\\bin\\Debug\\net10.0\\DirectPrintHost.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://gdnnfllflaibcdmiljbllpikhicibebn/"
+  ]
+}
